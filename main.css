@@ -1,0 +1,41 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin: 80px ;
+}
+
+.section{
+    max-width:960px;
+    width: 100%;
+    justify-content: space-between;
+    
+    
+}
+
+form{
+    border: 2px solid rgba(0, 0, 0, 0.568);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1,h2{
+    text-align: center;
+    padding: 12px;
+    padding: 20px ;
+}
+table{
+border:2px solid  rgba(0, 0, 0, 0.568);
+width:100%;
+}
+
+table tr{
+    text-align:center;
+}
+
